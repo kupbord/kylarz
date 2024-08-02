@@ -64,7 +64,7 @@ text-overflow: ellipsis;
     width:220px !important;
     height:19px !important;
     display:inline-block;
-    image-rendering: pixelated;
+    image-rendering: pixelated !important;
 }
 .batn:hover {
     box-shadow: 0 0 15px rgba(33,33,33,.4); 
