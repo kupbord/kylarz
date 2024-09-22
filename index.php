@@ -40,7 +40,7 @@
         <b>RAM:</b> 32GB DDR3 @ 1600MT/s<br>
         <b>GPU:</b> NVIDIA GeForce GTX 1060 (6GB GDDR5, Pascal)<br>
         <b>SSD(s):</b> 1TB Crucial BX500 + 480GB T-FORCE Vulcan Z<br>
-        <b>OS:</b> Windows XP Pro SP3
+        <b>OS:</b> Windows 7, 10, 11
 </div>
 
 <div class="a">
