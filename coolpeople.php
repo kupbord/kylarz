@@ -12,7 +12,7 @@
     <![endif]-->
 
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/maddieisspecial.css" rel="stylesheet">
+    <link href="css/skylarisspecial.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/fbb4da9442.js" crossorigin="anonymous"></script>
     <style>#e {
         font-size: 8pt !important;
@@ -34,12 +34,13 @@
           <div class="span10">
             <h3>
                 <ul>
-                    <li><a href="//twitter.com/kaisiece">kaisiece (my favorite)</li>
+                    <?php //<li><a href="//twitter.com/kaisiece">kaisiece (my favorite)</li> ?>
                     <li><a href="//iwn.lol">Galfreya (owns domain too)</li>
                     <li><a href="//meowifier.net">jul</li>
                     <li><a href="//tobskep.com">tobskep (thanks for hosting btw)</li>
                     <li><a href="//kitproj.com">kitproj</a></li>
-                    <li><a href="//open.spotify.com/artist/7iMWvBdzP9tJaObY3QEwDy">coolboytrack08 (THIS SHIT FIRE!!!!) <small id="e">(PUT IT OUT!!!!)</small></li>
+                    <li><a href="javascript:alert('is it really worth it?')">nami</a></li>
+                    <?php //<li><a href="//open.spotify.com/artist/7iMWvBdzP9tJaObY3QEwDy">coolboytrack08 (THIS SHIT FIRE!!!!) <small id="e">(PUT IT OUT!!!!)</small></li> ?>
                 </ul>
 </h3>
     </div>

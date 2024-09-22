@@ -1,7 +1,7 @@
 <div class="topbar">
       <div class="fill">
         <div class="container">
-          <a class="brand">kylarz</a>
+          <a class="brand">skylar's site</a>
           <ul class="nav">
             <li><a href=".">this site</a></li>
             <li><a href="coolpeople.php">cool people</a></li>

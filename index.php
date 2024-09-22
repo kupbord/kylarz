@@ -12,7 +12,7 @@
     <![endif]-->
 
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="css/maddieisspecial.css" rel="stylesheet">
+    <link href="css/skylarisspecial.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/fbb4da9442.js" crossorigin="anonymous"></script>
 
   </head>
@@ -32,14 +32,14 @@
             <h2>abou t me</h2>
             <p>i am an idiot who either wastes my time writing shitty php (hey that sounds familiar)<br> or doing autistic things with computers (such as installing windows xp onto a haswell desktop)<br><br>am a minor so don't be carly thanks</p>
         <h3>music</h3>
-        <p>mainly listen to 2000s rock metal emo whatever but sometimes other shit (taylor swift in top 10 :sob:)<br>favorites: all american rejects (Peak...), finch (also peak...), taking back sunday, linkin park<br>obviously you can see everything on lastfm so wont explain more here</p> 
-    <h2>computer(s)</h2> 
+        <p>mainly listen to 2000s rock metal emo whatever but sometimes other shit (taylor swift in top 15 :sob:)<br>favorites: all american rejects (Peak...), finch (also peak...), linkin park (also also peak...)<br>obviously you can see everything on lastfm so wont explain more here</p> 
+    <h2>main computers</h2> 
     <div class="a">
         <h4>desktop</h4>   
-        <b>CPU:</b> Intel Xeon E3-1270 V3 (4c8t, 3.5GHz)<br>
-        <b>RAM:</b> 12GB DDR3 @ 1600MT/s<br>
-        <b>GPU:</b> NVIDIA GeForce GT 730 (2GB GDDR5, Kepler)<br>
-        <b>HDD:</b> 1TB Seagate ST1000LM035<br>
+        <b>CPU:</b> Intel Core i7-3770 (4c8t, 3.4-3.9GHz)<br>
+        <b>RAM:</b> 32GB DDR3 @ 1600MT/s<br>
+        <b>GPU:</b> NVIDIA GeForce GTX 1060 (6GB GDDR5, Pascal)<br>
+        <b>SSD(s):</b> 1TB Crucial BX500 + 480GB T-FORCE Vulcan Z<br>
         <b>OS:</b> Windows XP Pro SP3
 </div>
 

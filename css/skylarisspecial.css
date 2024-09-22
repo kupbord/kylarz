@@ -70,7 +70,7 @@ text-overflow: ellipsis;
     box-shadow: 0 0 15px rgba(33,33,33,.4); 
   }
   body {
-    background: url(../img/back.jpg) !important;
+    background: url(../img/peak.jpg) !important;
     background-size: cover !important;
   }
   footer > p {
@@ -83,4 +83,8 @@ text-overflow: ellipsis;
   }
   footer {
     border: none;
+  }
+  .fill {
+    /* background: linear-gradient(to bottom,  #7119ff 0%,#3e04d0 100%) !important; */
+    /* background: linear-gradient(to bottom, rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%) !important; */
   }
